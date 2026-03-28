@@ -1,2 +1,2 @@
 # Auto-Infinite-Counter-Macro-Discord
-Can be used with the infinite-counter discord bot to rack up high scores. However, make sure when you start the program, the cursor actually clicks on the text box (for me it does, but depending on your resolution and browser layout it may not). Have two windows open side by side with discord open on both.
+Can be used with the infinite-counter discord bot to rack up high scores. However, make sure when you start the program, the cursor actually clicks on the text box (for me it does, but depending on your resolution and browser layout it may not). Have two windows open side by side with discord open on both. As for the variable recent_number, that should be changed to whatever the most recent correct number was.
